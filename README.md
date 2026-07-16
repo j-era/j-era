@@ -9,6 +9,7 @@ Senior software engineer focused on **real-time 3D and computer graphics for the
 - ⚡ **Performance** — glTF asset pipelines, compression, offscreen rendering in Web Workers
 - 🎨 **Generative & shader graphics** — GLSL, Perlin-noise-driven animation ([generative-graphics](https://github.com/artcom/generative-graphics))
 - 🤖 **AI-augmented development** — Claude, Copilot, local models with Ollama, generative pipelines with ComfyUI
+- 🎛️ **Hardware tinkering** — audio-reactive LED setups (ESP32 + WLED), ePapers and NRF52
 
 My roots are in medical visualization and GPU computing — I was rendering volume data in the browser back in 2011, before WebGL was cool.
 
